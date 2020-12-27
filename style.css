@@ -1,0 +1,62 @@
+a:link, :visited
+	{
+		background-color: grey;
+		color: black;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+	}	
+a:hover
+	{
+		background-color: teal;
+		color: azure;
+	}
+p
+	{
+		background-color: darkslategrey;
+		font-family: 'Bangers', cursive;
+		color: aliceblue;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+
+	}
+
+h1
+	{
+		font-family: broadway;
+		color: white;
+
+	}
+
+h2
+	{
+		font-family: 'Libre Baskerville', serif;
+		color: white;
+
+	}
+
+h3
+	{
+		font-family: broadway;
+		color: white;
+	}
+
+h4
+	{
+		background-color: teal;
+		color: ivory;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-family: 'Josefin Sans', sans-serif;
+		padding: 5px;
+		border-radius: 25px;
+	}	
+
+ul
+	{
+		font-family: 'Libre Baskerville', serif;
+		color: azure;
