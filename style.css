@@ -1,6 +1,6 @@
 a:link, :visited
 	{
-		background-color: grey;
+		background-color: #FFDAB9;
 		color: black;
 		padding: 15px;
 		text-align: center;
@@ -9,12 +9,12 @@ a:link, :visited
 	}	
 a:hover
 	{
-		background-color: teal;
-		color: azure;
+		background-color: #BA55D3;
+		color: #FA8072;
 	}
 p
 	{
-		background-color: darkslategrey;
+		background-color: #BC8F8F;
 		font-family: 'Bangers', cursive;
 		color: aliceblue;
 		padding: 15px;
@@ -27,7 +27,7 @@ p
 h1
 	{
 		font-family: broadway;
-		color: white;
+		color: #8FBC8F;
 
 	}
 
@@ -41,7 +41,7 @@ h2
 h3
 	{
 		font-family: broadway;
-		color: white;
+		color: #2F4F4F;
 	}
 
 h4
